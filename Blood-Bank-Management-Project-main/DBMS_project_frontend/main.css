@@ -1,0 +1,54 @@
+:root {
+    --white: #ffffff;
+    --black: #000000;
+    --limg: url('LightBG.jpg');
+    --dimg: url('DarkBG.jpg');
+}
+
+#head1 {
+    color: #bab2b2;
+    font-family: 'Lucida Handwriting', cursive;
+    text-align: left;
+    background-color: #3f0f0f;
+    font-size: large;
+}
+
+#head2 {
+    background-color: #e59191;
+    background-size: 100% 100%;
+    text-align: center;
+    font-family: 'Lucida Calligraphy', cursive;
+    color: #ffffff
+}
+
+#logo {
+    float: left;
+    height: 100px;
+    width: 100px;
+}
+
+#donor {
+    align-self: center;
+    float: left;
+    height: 100px;
+    width: 100px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#hospitals {
+    align-self: center;
+    height: 100px;
+    width: 100px;
+    float: right;
+    padding-right: 20%;
+}
+
+#patient{
+    align-self: center;
+    height: 100px;
+    width: 100px;
+    float: left;
+    padding-left: 20%;
+    padding-right: 20%;
+}
