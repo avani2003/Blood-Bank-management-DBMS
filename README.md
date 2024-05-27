@@ -19,7 +19,7 @@ This is a simple Blood Bank Management System implemented using Python and SQL. 
 
 - Python 3.x
 - SQL Database (SQLite, MySQL, PostgreSQL, etc.)
-- Python libraries: `sqlite3` (for SQLite), `mysql-connector-python` (for MySQL), `psycopg2` (for PostgreSQL), etc.
+
 
 ## Setup
 
